@@ -1,0 +1,8 @@
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\obj\Debug\Situação de Aprendizagem 01 Parte 2.csproj.AssemblyReference.cache
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\obj\Debug\Situação de Aprendizagem 01 Parte 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\obj\Debug\Situação de Aprendizagem 01 Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\bin\Debug\Situação de Aprendizagem 01 Parte 2.exe.config
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\bin\Debug\Situação de Aprendizagem 01 Parte 2.exe
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\bin\Debug\Situação de Aprendizagem 01 Parte 2.pdb
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\obj\Debug\Situação de Aprendizagem 01 Parte 2.exe
+C:\Users\afeli\source\repos\Situação de Aprendizagem 01 Parte 2\Situação de Aprendizagem 01 Parte 2\obj\Debug\Situação de Aprendizagem 01 Parte 2.pdb
